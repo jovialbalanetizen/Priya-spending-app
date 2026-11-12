@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise — Smart Indian Expense & SMS Tracker",
+  "description": "Mobile-first personal expense tracker for India with bank/UPI SMS parsing, month-end analytics dashboard, budgets, splits, receipt OCR, to-do list, and offline PWA support.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
